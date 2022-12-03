@@ -14,10 +14,6 @@ export const Container = styled.View`
     flex-direction: row;
 
     border-radius: 8px;
-
-
-
-
 `;
 
 export const Name = styled.Text`
